@@ -1,6 +1,6 @@
 # Cargo generated
- debug/
- target
+debug/
+target/
  
 # backup
 **/*.rs.bk
